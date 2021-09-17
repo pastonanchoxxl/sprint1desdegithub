@@ -1,0 +1,18 @@
+body{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+
+#formRegistro {
+    width: 100px;
+    height: 200px;
+
+}
+
+#formRegistro p input{
+    border:solid green;
+
+}
